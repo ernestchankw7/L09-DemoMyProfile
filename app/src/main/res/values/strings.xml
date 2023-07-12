@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L09-Demo My Profile</string>
+    <string name="name">Name</string>
+    <string name="gpa">GPA</string>
+</resources>
